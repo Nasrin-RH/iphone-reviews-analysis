@@ -3,7 +3,7 @@
 
 This project analyzes iPhone customer reviews using Natural Language Processing (NLP) and data visualization techniques to uncover insights about customer sentiment.
 
-##Tools and Libraries Used
+## Tools and Libraries Used
 - **Python**, **Pandas**, **NumPy** – for data handling and processing  
 - **TextBlob**, **NLTK** – for text preprocessing and sentiment analysis  
 - **Matplotlib**, **Seaborn**, **WordCloud** – for data visualization
@@ -16,7 +16,7 @@ This project analyzes iPhone customer reviews using Natural Language Processing 
 - Data visualization with histograms, count plots and Sentiment distributions
 
 
-## 📊 Dataset
+## Dataset
 
 - The dataset used in this project consists of iPhone product reviews.
 - It includes user-generated reviews in text format, which were analyzed for sentiment.
@@ -32,7 +32,7 @@ This project analyzes iPhone customer reviews using Natural Language Processing 
 -`iphone.csv` – Raw input dataset containing iPhone customer reviews
 
 
-- ## How to Use
+ ## How to Use
 
 1. Clone this repo or upload the notebook to [Google Colab](https://colab.research.google.com/).
 2. Run each cell step by step to explore the analysis.
